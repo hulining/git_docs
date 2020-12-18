@@ -18,7 +18,7 @@ git add [--verbose | -v] [--dry-run | -n] [--force | -f] [--interactive | -i] [-
       [--] [<pathspec>…​]
 ```
 
-`git add` 常用标签如下:
+`git add` 常用命令行选项如下:
 
 - `-n, --dry-run`
 

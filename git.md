@@ -46,7 +46,7 @@ Git 与其它版本控制系统的主要差别在于 Git 只关心文件数据�
 
 ## git 命令
 
-git 包含众多子命令和标签.
+git 包含众多子命令和命令行选项.
 
 ```bash
 git [--version] [--help] [-C <path>] [-c <name>=<value>]
@@ -57,7 +57,7 @@ git [--version] [--help] [-C <path>] [-c <name>=<value>]
     <command> [<args>]
 ```
 
-下面介绍一些常用的标签
+下面介绍一些常用的命令行选项
 
 - `-C <path>`
 
